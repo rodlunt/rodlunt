@@ -4,15 +4,12 @@ Sales-and-operations leader in the Australian electrical wholesale and renewable
 
 **Why I build things:** it brings me joy being able to solve my and others' problems through building things. Each project started as a curiosity I needed for myself, then got shared with a few mates.
 
-#### What I'm building
+#### Current projects
 
 - ⚡ **[CurrentFlow](https://currentflow.com.au)** *(in development)* — SaaS for solar installers covering compliance, field documentation and job workflow. Grew out of my years in the renewables industry; currently in customer discovery and build.
 - 🐶 **[BarkMarker](https://barkmarker.com.au)** *(in prototyping)* — a machine-listening device that detects and identifies nuisance barking. Audio capture into a YAMNet classifier with sound fingerprinting, an evidence diary and PDF reports, delivered as a self-hosted PWA.
-
-#### Also running
-
+- 🎓 **[GradeMap](https://grademap.com.au)** — AI study coach for mature-age uni students. Rubric decoding, feedback mapping, context-persistent study sessions.
 - 📊 **[businessreview360.au](https://businessreview360.au)** — business review and tooling for SMB operators.
-- 🏠 **[choresandrewards.app](https://choresandrewards.app)** — household chore and rewards tracking for families.
 
 #### Experience
 
@@ -28,7 +25,7 @@ Sales-and-operations leader in the Australian electrical wholesale and renewable
 
 #### Let's connect
 
-- 🌐 [rod.lunt.au](https://rod.lunt.au)
+- 🌐 More about me: [rod.lunt.au](https://rod.lunt.au)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodneylunt)
 - ✉️ rodney@grademap.com.au
 
